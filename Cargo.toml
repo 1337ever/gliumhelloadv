@@ -1,0 +1,8 @@
+[package]
+name = "gliumhelloadv"
+version = "0.1.0"
+authors = ["Tacolizard <ethn@sigaint.org>"]
+
+[dependencies]
+glium = "*"
+#obj = "*"
