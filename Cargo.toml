@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Tacolizard <ethn@sigaint.org>"]
 
 [dependencies]
-glium = "*"
+glium = "0.21.0"
 #obj = "*"
